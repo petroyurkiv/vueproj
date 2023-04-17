@@ -1,0 +1,37 @@
+.post {
+	max-width: 702px;
+	display: flex;
+	padding-top: 14px;
+	padding-bottom: 24px;
+}
+.post__description {
+	max-width: 64px;
+}
+.description__img {
+	margin-right: 14px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+.post__main {
+	max-width: 624px;
+}
+.main__user {
+	display: flex;
+}
+.user__indicator {
+	margin-right: 4px;
+}
+.user__name {
+	color: #AEBAE3;
+}
+.user__edit {
+	margin-top: -10px;
+	margin-left: auto;
+	font-size: 20px;
+	color: #DB2EF2;
+}
+.main__text {
+	margin-top: 6px;
+	color: #AEBAE3;
+}
